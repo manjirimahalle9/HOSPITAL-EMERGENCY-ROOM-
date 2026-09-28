@@ -1,4 +1,3 @@
-# HOSPITAL-EMERGENCY-ROOM-
 # 🏥 HOSPITAL EMERGENCY ROOM DASHBOARD
 
 ## 📊 Hospital Emergency Room Dashboard – Power BI
